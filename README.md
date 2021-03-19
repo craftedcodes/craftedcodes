@@ -1,11 +1,11 @@
 # Hi there, I'm Lea! 👋👾
-### *Full Stack Web Developer trained by Le Wagon  and SheCodes.io* 👩‍💻 🎉
+### *Full Stack Web Developer trained by Le Wagon and SheCodes.io* 👩‍💻 🎉
 
-🔭 I am currently working on the wireframe and db schema for my new and responsive portfolio website...
+🔭 I am currently working on the new Deviance app in my internship at RGMT Network UG...
 
 👯 ... and if I am free, always open for collaborations!
 
-🔥 My strength is definitely front end - especially CSS animations (at least in my last team project "Charlie").
+🔥 My strength is definitely front end - especially CSS animations and LottieFiles animation. Also I am very good in Flutter.
 
 ⏳ My life before coding: After graduating from a high school with focus on psychology and sociology, I founded a business and later studied fashion design.
 
