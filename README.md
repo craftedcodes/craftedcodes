@@ -9,7 +9,7 @@
 
 ⏳ My life before coding: After graduating from a high school with focus on psychology and sociology, I founded a business and later studied fashion design.
 
-#### *🔍 Currently, I am searching eagerly for a job or an internship as a Junior Web Developer in Berlin or remotely.*
+#### *🔍 Currently, I am searching eagerly for a remote job or an internship as a Junior Web or App Developer.*
 
 Therefore, if you know someone who is willed to give a highly motivated junior (be it front end or full stack) a chance, please make them contact me. 🤙😎
 
