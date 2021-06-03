@@ -1,17 +1,13 @@
 # Hi there, I'm Lea! 👋👾
 ### *Full Stack Web Developer trained by Le Wagon and SheCodes.io* 👩‍💻 🎉
 
-🔭 I am currently working on the new Deviance app in my internship at RGMT Network UG...
+🔭 I am currently working as a front end developer at eClever...
 
 👯 ... and if I am free, always open for collaborations!
 
 🔥 My strength is definitely front end - especially CSS animations and LottieFiles animation. Also I am very good in Flutter.
 
 ⏳ My life before coding: After graduating from a high school with focus on psychology and sociology, I founded a business and studied fashion design later.
-
-#### *🔍 Currently, I am searching eagerly for a remote job or internship as a Junior Web or App Developer.*
-
-Therefore, if you know someone who is willed to give a highly motivated junior (be it front end or full stack) a chance, please make them contact me. 🤙😎
 
 ### 📫 You can reach me via here GitHub, [LinkedIn](https://www.linkedin.com/in/lea-schumacher/) or via e-mail from my [portfolio website](https://crafted-codes.netlify.app/).
 
