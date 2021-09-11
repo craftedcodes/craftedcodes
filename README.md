@@ -1,5 +1,5 @@
 # Hi there, I'm Lea! 👋👾
-### *Full Stack Web Developer trained by Le Wagon and SheCodes.io* 👩‍💻 🎉
+### *Flutter Developer Looking For A Flutter Job* 👩‍💻 🎉
 
 🔭 I am currently working as a front end developer at eClever...
 
