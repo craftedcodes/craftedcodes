@@ -11,6 +11,8 @@
 
 ### 📫 You can reach me via here GitHub, [LinkedIn](https://www.linkedin.com/in/lea-schumacher/) or via e-mail from my [portfolio website](https://crafted-codes.netlify.app/).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftedcodes&layout=compact)](https://github.com/craftedcodes/github-readme-stats)
+
 <!--
 **craftedcodes/craftedcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
