@@ -11,8 +11,6 @@
 
 ### 📫 You can reach me via here GitHub, [LinkedIn](https://www.linkedin.com/in/lea-schumacher/) or via e-mail from my [portfolio website](https://crafted-codes.netlify.app/).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftedcodes&langs_count=15)](https://github.com/craftedcodes/github-readme-stats)
-
 
 
 <!--
