@@ -9,7 +9,7 @@
 
 ⏳ My life before coding: After graduating from a high school with focus on psychology and sociology, I founded a business and studied fashion design later.
 
-### 📫 You can reach me via here GitHub, [LinkedIn](https://www.linkedin.com/in/lea-schumacher/) or via e-mail from my [portfolio website](https://crafted-codes.netlify.app/).
+### 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/lea-schumacher/) or via e-mail from my [portfolio website](https://crafted-codes.netlify.app/).
 
 ![craftedcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftedcodes&show_icons=true&theme=tokyonight)
 
