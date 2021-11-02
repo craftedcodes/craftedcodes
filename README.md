@@ -1,5 +1,5 @@
 # Hi there, I'm Lea! 👋👾
-### *Flutter Developer Looking For A Flutter Job* 👩‍💻 🎉
+### *Flutter Developer* 👩‍💻 🎉
 
 🔭 I am currently working as a front end developer at eClever...
 
