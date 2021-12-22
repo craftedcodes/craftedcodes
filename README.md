@@ -1,7 +1,7 @@
 # Hi there, I'm Lea! 👋👾
 ### *Flutter Developer* 👩‍💻 🎉
 
-🔭 I am currently working as a front end developer at eClever...
+🔭 I am currently working as a software engineer at Net'Q...
 
 👯 ... and if I am free, always open for collaborations!
 
