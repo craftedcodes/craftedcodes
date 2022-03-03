@@ -1,7 +1,7 @@
 # Hi there, I'm Lea! 👋👾
 ### *Flutter Developer* 👩‍💻 🎉
 
-🔭 I am currently working as a software engineer at Net'Q...
+🔭 I am currently looking for a part time Flutter position...
 
 👯 ... and if I am free, always open for collaborations!
 
