@@ -5,7 +5,7 @@
 
 👯 ... and if I am free, always open for collaborations!
 
-🔥 My strength is definitely front end. Also I am **very good in Flutter**.
+🔥 My strength is definitely **Dart and Flutter**.
 
 ⏳ My life before coding: After graduating from a high school with focus on psychology and sociology, I founded a business and studied fashion design later.
 
