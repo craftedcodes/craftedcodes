@@ -1,4 +1,4 @@
-# Hi there, I'm Lea! 👋👾
+# Hi there, I'm L! 👋👾
 ### *Flutter Developer* 👩‍💻 🎉
 
 🔭 I am currently looking for a part time Flutter position...
