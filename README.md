@@ -1,9 +1,11 @@
-# Hi there, I'm L! 👋👾
+# Hi there, I'm Lea! 👋👾
 ### *Flutter Developer* 👩‍💻 🎉
 
-🔭 I am currently looking for a part time Flutter position...
+🔭 I am currently looking for a part time Flutter position with start in 2024...
 
 👯 ... and if I am free, always open for collaborations!
+
+🤓 Currently, I am learning Kotlin.
 
 🔥 My strength is definitely **Dart and Flutter**.
 
