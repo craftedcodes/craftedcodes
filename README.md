@@ -11,7 +11,8 @@
 
 ⏳ My life before coding: After graduating from a high school with focus on psychology and sociology, I founded a business and studied fashion design later.
 
-### 📫 You can reach me via e-mail from my [portfolio website](https://crafted-flutter-codes.netlify.app/#/).
+### 📫 You can reach me via e-mail from my portfolio website after graduating from the Syntax Institute.
+<!---[portfolio website](https://crafted-flutter-codes.netlify.app/#/). -->
 
 ![craftedcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftedcodes&show_icons=true&count_private=true&theme=tokyonight)
 
