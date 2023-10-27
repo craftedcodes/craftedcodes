@@ -40,7 +40,7 @@
 
 ## What I want to learn
 
-<p><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a></p>
+<p><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a><a href="https://www.modular.com/mojo" target="_blank" rel="noreferrer"> <img src="https://styles.redditmedia.com/t5_8cdl69/styles/communityIcon_rftzyx7zdtxa1.png?width=256&s=a0cfe7bd00ba6e8849bc643f672ae39beb39c472" alt="mojo" width="40" height="40"/> </a></p>
 <!--
 **craftedcodes/craftedcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
