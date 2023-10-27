@@ -1,5 +1,5 @@
 # Hi there, I'm Lea! 👋👾
-### *Flutter Developer* 👩‍💻 🎉
+### *Mobile App Developer - Flutter - Native Android - Native iOS - Secure by Design Apps* 👩‍💻 🎉
 
 🔭 I am currently looking for a part time mobile app development position with start in June 2024...
 
