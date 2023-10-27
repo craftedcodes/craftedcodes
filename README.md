@@ -1,11 +1,11 @@
 # Hi there, I'm Lea! 👋👾
 ### *Flutter Developer* 👩‍💻 🎉
 
-🔭 I am currently looking for a part time mobile app development position with start in 2024...
+🔭 I am currently looking for a part time mobile app development position with start in June 2024...
 
 👯 ... and if I am free, always open for collaborations!
 
-🤓 Currently, I am learning Kotlin.
+🤓 Currently, I am learning Swift, SwiftUI and Core Data.
 
 🔥 My strength is definitely **Dart and Flutter**.
 
