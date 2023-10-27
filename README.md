@@ -9,7 +9,9 @@
 
 🔥 My strength is definitely **Dart and Flutter**.
 
-⏳ My life before coding: After graduating from a high school with focus on psychology and sociology, I founded a business and studied fashion design, psychology and economics afterwards.
+📝 I am writing a [bilingual blog (German and English)](https://medium.com/@craftedcodes) with essays about the tech industry in context with psychology and society as well as coding and cybersecurity tutorials.
+
+⏳ My life before coding: After graduating from a high school with focus on psychology and sociology, I founded a business and studied fashion design, psychology and economics afterwards. I worked as a call center agent, wrote articles for fashion magazines and exhibited my photography internationally.
 
 ### 📫 You can reach me via e-mail from my portfolio website after graduating from the Syntax Institut.
 <!---[portfolio website](https://crafted-flutter-codes.netlify.app/#/). -->
