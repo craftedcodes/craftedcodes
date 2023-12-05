@@ -1,7 +1,7 @@
 # Hi there, I'm Lea! 👋👾
 ### *Mobile App Developer - Flutter - Native Android - Native iOS - Secure by Design Apps* 👩‍💻 🎉
 <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/craftedcodes/octo/main/octocat-lea.png">
-🔭 I am currently looking for a part time mobile app development position with start in June 2024...
+🔭 I am currently looking for a part time and remote mobile app development position with start in June 2024...
 
 👯 ... and if I am free, always open for collaborations!
 
@@ -12,6 +12,8 @@
 📝 I am writing a [bilingual blog (German and English)](https://medium.com/@craftedcodes) with essays about the tech industry in context with psychology and society as well as coding and cybersecurity tutorials.
 
 ⏳ My life before coding: After graduating from a high school with focus on psychology and sociology, I founded a business and studied fashion design, psychology and economics afterwards. I worked as a call center agent, wrote articles for fashion magazines and exhibited my photography internationally.
+
+👭 Active in [Flutteristas](https://flutteristas.org/) community - a Flutter community for women and non-binary people and have set up a [LinkedIn group for female participants of the Syntax Institut training](https://www.linkedin.com/groups/12900329/).
 
 ### 📫 You can reach me via e-mail from my portfolio website after graduating from the Syntax Institut.
 <!---[portfolio website](https://crafted-flutter-codes.netlify.app/#/). -->
