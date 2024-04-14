@@ -1,7 +1,7 @@
 # Hi there, I'm Lea! 👋👾
 ### *Mobile App Developer - Flutter - Native Android - Native iOS - Secure by Design Apps* 👩‍💻 🎉
 <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/craftedcodes/octo/main/octocat-lea.png">
-🔭 I am currently looking for a part time and remote mobile app development position with start in June 2024...
+🔭 I am currently looking for a part time and remote mobile app development position with start in November 2024...
 
 👯 ... and if I am free, always open for collaborations!
 
